@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/dsapxsumpw"
-click B href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/main"
-click C href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/production"
-click D href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/esm"
-click E href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/deno"
-click F href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/dsapxsumpw"
+%% click B href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/main"
+%% click C href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/production"
+%% click D href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/esm"
+%% click E href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/deno"
+%% click F href "https://github.com/stdlib-js/blas-ext-base-dsapxsumpw/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/dsapxsumpw
