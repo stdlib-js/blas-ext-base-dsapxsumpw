@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-01)
+## Unreleased (2024-11-20)
+
+<section class="features">
+
+### Features
+
+-   [`b4c3fc8`](https://github.com/stdlib-js/stdlib/commit/b4c3fc8f5a8a1edeb82564db8b840b902ed1b5cd) - add C `ndarray` API and refactor `blas/ext/base/dsapxsumpw` [(#3083)](https://github.com/stdlib-js/stdlib/pull/3083)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`b4c3fc8`](https://github.com/stdlib-js/stdlib/commit/b4c3fc8f5a8a1edeb82564db8b840b902ed1b5cd) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dsapxsumpw` [(#3083)](https://github.com/stdlib-js/stdlib/pull/3083) _(by Muhammad Haris, Athan Reines, stdlib-bot)_
 -   [`7e366ae`](https://github.com/stdlib-js/stdlib/commit/7e366ae8bd41439be0e99e958d1c3fbb1b7dd0c2) - **chore:** update package.json descriptions _(by Philipp Burckhardt)_
 -   [`ed44fee`](https://github.com/stdlib-js/stdlib/commit/ed44feecb9eaa5e0849d1a533e5415624d0aa338) - **style:** use imperative in package.json description and end with period _(by Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
@@ -27,9 +38,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Muhammad Haris
 -   Philipp Burckhardt
 
 </section>
