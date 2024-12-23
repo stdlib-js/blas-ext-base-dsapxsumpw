@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -76,7 +76,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
 -   [`0244027`](https://github.com/stdlib-js/stdlib/commit/0244027e1e2c0ceb1cd8ae1808196c24fa77b142) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
--   [`16fabbd`](https://github.com/stdlib-js/stdlib/commit/16fabbd608ff5f4058b34e78d4e6109820bcd6b6) - **refactor:** update `blas/ext/base/dsapxsumpw` to follow current project conventions _(by Shivam, Philipp Burckhardt)_
+-   [`16fabbd`](https://github.com/stdlib-js/stdlib/commit/16fabbd608ff5f4058b34e78d4e6109820bcd6b6) - **refactor:** update `blas/ext/base/dsapxsumpw` to follow current project conventions _(by Shivam Ahir, Philipp Burckhardt)_
 
 </details>
 
@@ -92,7 +92,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Philipp Burckhardt
--   Shivam
+-   Shivam Ahir
 
 </section>
 
