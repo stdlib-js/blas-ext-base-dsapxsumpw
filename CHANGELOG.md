@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-05-25)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - add missing checks for `N` and address failing tests stemming from refactoring
 -   [`bff0533`](https://github.com/stdlib-js/stdlib/commit/bff0533b91d79f305e1918e0faa597ca3c98f2ca) - extract the scalar constant as a float in `blas/ext/base/dsapxsumpw` [(#3255)](https://github.com/stdlib-js/stdlib/pull/3255)
 
 </section>
@@ -32,6 +33,8 @@
 
 <details>
 
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
+-   [`41c82f8`](https://github.com/stdlib-js/stdlib/commit/41c82f8d6cb191003037fa8b382cf8a7f7576471) - **refactor:** simplify implementation _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`cbf1382`](https://github.com/stdlib-js/stdlib/commit/cbf1382a4cad52ed7c30d74282eb9a75474d32e6) - **docs:** update related packages sections [(#4964)](https://github.com/stdlib-js/stdlib/pull/4964) _(by stdlib-bot)_
 -   [`090e47b`](https://github.com/stdlib-js/stdlib/commit/090e47b8d61456a35d74abcb39467e107d34ebe5) - **style:** remove decimals _(by Athan Reines)_
